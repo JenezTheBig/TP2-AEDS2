@@ -1,0 +1,4 @@
+Rafael Carvalho Avidago Geraldo
+Davi Medeiros Gonçalves
+
+Arquivos: heap.c insercao.c mergesort.c quicksort.c selecao.c shellsort.c DOCAEDS2.pdf
